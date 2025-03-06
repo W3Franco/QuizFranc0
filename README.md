@@ -1,4 +1,4 @@
-# Django Backend Project
+# Django Backend Project (sir I deleted the old repository didn't know I would have needed it)
 
 ## **Overview**
 This is a Django-based backend API that includes user authentication, product management, and JWT-based authentication. It provides endpoints for retrieving users and products, along with secure authentication mechanisms.
